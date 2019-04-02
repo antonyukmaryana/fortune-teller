@@ -1,0 +1,14 @@
+/* #fortune-teller {
+  display: none;
+}
+
+#answers {
+  display: none;
+} */
+.btn {
+  display: block;
+}
+
+#result {
+  display: none;
+}
